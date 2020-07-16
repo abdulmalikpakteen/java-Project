@@ -4,7 +4,7 @@ package PracticForAllClass;
 
 public class L {
 
-	public static void main(String[] args) {
+	public static void main(Person[] args) {
 		
 		int a[]=new int[6];
 		a[0]=1;

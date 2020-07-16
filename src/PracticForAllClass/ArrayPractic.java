@@ -2,7 +2,7 @@ package PracticForAllClass;
 
 public class ArrayPractic {
 
-	public static void main(String[] args) {
+	public static void main(Person[] args) {
 		
 		int a[]=new int[8];
 		
